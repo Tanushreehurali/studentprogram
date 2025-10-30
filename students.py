@@ -1,0 +1,6 @@
+age=input("enter the student's age:")
+usn=input("enter the student's usn:")
+address=input("enter the student's address:")
+print("age:",age)
+print("usn:",usn)
+print("address:",address)
