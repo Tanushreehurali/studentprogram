@@ -1,0 +1,6 @@
+name = input("enter teacher name:")
+sub = input("enter subject:")
+coursecode = input("enter coursecode:")
+print("Name:",name)
+print("subject",sub)
+print("Coursecode:",coursecode)
